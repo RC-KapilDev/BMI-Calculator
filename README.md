@@ -44,12 +44,14 @@ Please note that the BMI Calculator should not replace professional medical advi
       <th></th></th>
   </tr>
     <tr>
-      <td data-label="Column 1"><img src='readmeimg' width=300 height=550></td>
-      <td data-label="Column 2">Data 2</td>
+      <td data-label="Column 1"><img src='readmeimg\page2.jpg' ></td>
+      <td data-label="Column 2"><img src='readmeimg\page1.jpg' ></td>
     </tr>
   </table>
 </body>
 </html>
+
+![](bmi_calculator\readmeimg)
 
 
 ## Getting Started
